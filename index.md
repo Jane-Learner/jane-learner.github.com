@@ -9,7 +9,7 @@ title: Posts
   {% for post in site.posts %}
     <li><h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2></li>
     </br>
-    <article>{{post.excerpt}}</article>
+    <div class = “article”>{{post.excerpt}}</div>
 
   {% endfor %}
 </ul>
