@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Supporting tagline"
+
 tags : [intro, beginner, jekyll, tutorial]
 ---
 {% include JB/setup %}
@@ -21,7 +21,7 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 This website is created with Jekyll. [Other Jekyll websites](https://github.com/mojombo/jekyll/wiki/Sites).
 
 
-
+<!—more—>
 ### What does Jekyll Do?
 
 Jekyll is a ruby gem you install on your local system.
